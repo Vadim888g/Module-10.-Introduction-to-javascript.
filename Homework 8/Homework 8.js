@@ -1,0 +1,6 @@
+let myMap = new Map ()
+myMap.set ('key1', 11)
+myMap.set ('key2', true)
+myMap.set ('key3', 'October')
+console.log (myMap.keys())
+console.log (myMap.values())
